@@ -1,4 +1,4 @@
-Year,Attack Description,Country,Industry Type
+Year,Attack_Description,Country,Industry_Type
 1982,CIA Trojan Causes Siberian Gas Pipeline Explosion,Russia,Petroleum
 1985,Union Carbide Chemical Leak West Virginia,United States,Chemical
 1989,Oil Company SCADA System Impacted by RF Interference,United States,Petroleum
